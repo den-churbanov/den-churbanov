@@ -4,7 +4,7 @@
 
 - 💡 I like to write code and solve interesting problems
 - 💪 I like running, a gym and fresh air in nature
-- 💻 I currently learning typescript and material UI
+- 💻 I currently learning Typescript and Material UI
 - 👍 I’m looking to collaborate on some React projects
 
 
